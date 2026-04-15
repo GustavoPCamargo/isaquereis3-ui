@@ -24,8 +24,10 @@
 <br>
       
 <div align="center">
-  <img width="420" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=isaquereis3-ui&rank_icon=github&show_icons=true&theme=dracula&count_private=true">
-  <img width="420" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=isaquereis3-ui&layout=compact&theme=dracula&count_private=true">
+  <p align="center">
+  <img width="420" height="180" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=isaquereis3-ui&rank_icon=github&show_icons=true&theme=dracula&count_private=true">
+  <img width="420" height="180" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=isaquereis3-ui&layout=compact&theme=dracula&count_private=true">
+</p>
   <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isaquereis3-ui&theme=dracula"/>
 </div>
 
