@@ -3,12 +3,12 @@
 <br>
 
 <div align="center">
-  <img align="center" height="150" src="https://imgur.com/aXIQLp8.png" />
+  <img align="center" height="150" src="https://imgur.com/gallery/guitar-NWLwLYk#/t/anime" />
 </div>
 
 <div align="center">
   
-  <b>`プ ロ グ ラ マ`</b>
+  <b>`アイザック`</b>
   <samp>
       <br>
       Hi there! I'm <b>Isaque dos Reis</b>
@@ -22,9 +22,7 @@
 
 <br>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/kami_♡-black" />
-</div>
+
       
 <br>
 <br>
