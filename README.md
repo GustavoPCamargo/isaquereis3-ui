@@ -3,7 +3,7 @@
 <br>
 
 <div align="center">
-  <img height="150" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Anime_Manga_Eyes.svg"/>
+  <img height="150" src="https://cdn.waifu.im/7015.jpg"/>
 </div>
 
 <div align="center">
