@@ -73,16 +73,7 @@
   <a href="www.linkedin.com/in/isaque-dos-reis"><img width="70" height="70" alt="Image" src="https://github.com/user-attachments/assets/b63805b1-9f73-43de-87fb-9b510d3674aa" /></a>
 </div>
 
-<div align="center">
-  <p align="center">
-      <samp>
-        ♡ <a href="https://rentry.co/kamillymedino">rentry</a> ⊹
-        <a href="https://linktr.ee/kamillyvm1">linktr.ee</a> ⊹
-        <a href="https://kamillymedino.carrd.co/">carrd.co</a> ⊹
-        <a href="https://cyber-buttercup-43c.notion.site/My-universe-191f307c822780fba1dae4c8a8fc6069">notion</a> ♡
-      </samp>
-  </p>
-</div>
+
 <br>
 
 </details>
