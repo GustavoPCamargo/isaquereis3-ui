@@ -2,7 +2,7 @@
 
 <br>
 <div align="center">
-<img width="240" height="240" alt="Image" src="https://github.com/user-attachments/assets/54a0caf5-8cce-4332-a613-2521df347ab0" />
+<img width="240" height="240" alt="Image" src="https://github.com/user-attachments/assets/63a8faf3-607a-4543-9891-8da67162743c" />
 </div>
 
 <div align="center">
@@ -54,17 +54,25 @@
 
 <div align="center">
   <samp>
-    <b>
-      Contact me:
-    </b>
+    <b>Contact me:</b>
   </samp>
-  <br>
-  <br>
+  <br><br>
+
   <div align="center" style="display: inline_block">
-  <a href="isaquereis3@gmail.com"><img width="70" height="70" alt="Gmail" src="https://github.com/user-attachments/assets/939e2a8c-d89c-4e2f-8e4a-45d5d55dda4d" /></a>
-  <a href="https://www.instagram.com/zakezin/?next=%2F"><img width="70" height="70" alt="Image" src="https://github.com/user-attachments/assets/8fe6a7e2-9e4b-49da-a39a-1949a2cec147" /></a>
-  <a href="www.linkedin.com/in/isaque-dos-reis"><img width="70" height="70" alt="Image" src="https://github.com/user-attachments/assets/b63805b1-9f73-43de-87fb-9b510d3674aa" /></a>
+    <a href="mailto:isaquereis3@gmail.com">
+      <img width="70" height="70" alt="Gmail" src="https://github.com/user-attachments/assets/939e2a8c-d89c-4e2f-8e4a-45d5d55dda4d" />
+    </a>
+
+  
+  <a href="https://www.instagram.com/zakezin/">
+  <img width="70" height="70" alt="Instagram" src="https://github.com/user-attachments/assets/8fe6a7e2-9e4b-49da-a39a-1949a2cec147" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/isaque-dos-reis">
+  <img width="70" height="70" alt="LinkedIn" src="https://github.com/user-attachments/assets/b63805b1-9f73-43de-87fb-9b510d3674aa" />
+  </a>
   </div>
+
 </div>
 
 
