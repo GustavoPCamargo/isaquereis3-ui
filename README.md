@@ -1,8 +1,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=33&section=header"/>
 
 <br>
-
-<img width="740" height="740" alt="Image" src="https://github.com/user-attachments/assets/54a0caf5-8cce-4332-a613-2521df347ab0" />
+<div align="center">
+<img width="340" height="340" alt="Image" src="https://github.com/user-attachments/assets/54a0caf5-8cce-4332-a613-2521df347ab0" />
+</div>
 
 <div align="center">
   
