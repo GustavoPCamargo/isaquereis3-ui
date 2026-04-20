@@ -52,7 +52,7 @@
 
 <br>
 
-<div align="center" style="display: inline_block">
+<div align="center">
   <samp>
     <b>
       Contact me:
@@ -60,9 +60,11 @@
   </samp>
   <br>
   <br>
+  <div align="center" style="display: inline_block">
   <a href="isaquereis3@gmail.com"><img width="70" height="70" alt="Gmail" src="https://github.com/user-attachments/assets/939e2a8c-d89c-4e2f-8e4a-45d5d55dda4d" /></a>
   <a href="https://www.instagram.com/zakezin/?next=%2F"><img width="70" height="70" alt="Image" src="https://github.com/user-attachments/assets/8fe6a7e2-9e4b-49da-a39a-1949a2cec147" /></a>
   <a href="www.linkedin.com/in/isaque-dos-reis"><img width="70" height="70" alt="Image" src="https://github.com/user-attachments/assets/b63805b1-9f73-43de-87fb-9b510d3674aa" /></a>
+  </div>
 </div>
 
 
