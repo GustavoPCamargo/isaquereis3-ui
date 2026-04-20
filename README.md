@@ -2,6 +2,8 @@
 
 <br>
 
+<img width="740" height="740" alt="Image" src="https://github.com/user-attachments/assets/055faef6-d7be-4a23-a0a8-854f5e8cfd1d" />
+
 <div align="center">
   
   <b>`アイザック`</b>
