@@ -6,8 +6,7 @@
 </div>
 
 <div align="center">
-  
-  <b>`アイザック`</b>
+
   <samp>
       <br>
       Hi there! I'm <b>Isaque dos Reis</b>
@@ -58,20 +57,18 @@
   </samp>
   <br><br>
 
-  <div align="center" style="display: inline_block">
+  <p align="center">
     <a href="mailto:isaquereis3@gmail.com">
-      <img width="70" height="70" alt="Gmail" src="https://github.com/user-attachments/assets/939e2a8c-d89c-4e2f-8e4a-45d5d55dda4d" />
+      <img width="70" height="70" src="https://github.com/user-attachments/assets/939e2a8c-d89c-4e2f-8e4a-45d5d55dda4d" />
     </a>
-
-  
-  <a href="https://www.instagram.com/zakezin/">
-  <img width="70" height="70" alt="Instagram" src="https://github.com/user-attachments/assets/8fe6a7e2-9e4b-49da-a39a-1949a2cec147" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/isaque-dos-reis">
-  <img width="70" height="70" alt="LinkedIn" src="https://github.com/user-attachments/assets/b63805b1-9f73-43de-87fb-9b510d3674aa" />
-  </a>
-  </div>
+    <a href="https://www.instagram.com/zakezin/">
+      <img width="70" height="70" src="https://github.com/user-attachments/assets/8fe6a7e2-9e4b-49da-a39a-1949a2cec147" />
+    </a>
+    <a href="https://www.linkedin.com/in/isaque-dos-reis">
+      <img width="70" height="70" src="https://github.com/user-attachments/assets/b63805b1-9f73-43de-87fb-9b510d3674aa" />
+    </a>
+  </p>
+</div>
 
 </div>
 
